@@ -1,0 +1,10 @@
+torch>=2.9
+tiktoken
+# Keep the TensorFlow/h5py stack compatible with NumPy 1.x binaries.
+numpy==1.26.4
+h5py>=3.11,<3.15
+matplotlib
+requests
+tqdm
+tensorflow
+ipykernel
